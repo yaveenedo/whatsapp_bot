@@ -1,0 +1,6 @@
+error_log.txt
+log.txt
+*.pyc
+__pycache__
+oret2.py
+User Data
